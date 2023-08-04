@@ -1,15 +1,17 @@
 #include <stdio.h>
 #include <conio.h>
 #include <unistd.h>
-#include <D:\New folder\2nd Semester\COMP 003 - Computer Programming 2\Activities\5_ATM_Functions_final\Functions\processing_screen.c>
-#include <D:\New folder\2nd Semester\COMP 003 - Computer Programming 2\Activities\5_ATM_Functions_final\Functions\aborting_screen.c>
-#include "D:\New folder\2nd Semester\COMP 003 - Computer Programming 2\Activities\5_ATM_Functions_final\Functions\PINcheck.c"
-#include "D:\New folder\2nd Semester\COMP 003 - Computer Programming 2\Activities\5_ATM_Functions_final\Functions\PINcompare.c"
-#include "D:\New folder\2nd Semester\COMP 003 - Computer Programming 2\Activities\5_ATM_Functions_final\Functions\PINrecheck.c"
-#include "D:\New folder\2nd Semester\COMP 003 - Computer Programming 2\Activities\5_ATM_Functions_final\Functions\withdraw.c"
-#include "D:\New folder\2nd Semester\COMP 003 - Computer Programming 2\Activities\5_ATM_Functions_final\Functions\deposit.c"
-#include "D:\New folder\2nd Semester\COMP 003 - Computer Programming 2\Activities\5_ATM_Functions_final\Functions\inquiry.c"
-#include "D:\New folder\2nd Semester\COMP 003 - Computer Programming 2\Activities\5_ATM_Functions_final\Functions\exit_menu.c"
+#include <...\processing_screen.c>
+#include <...\aborting_screen.c>
+#include "...\PINcheck.c"
+#include "...\PINcompare.c"
+#include "...\PINrecheck.c"
+#include "...\withdraw.c"
+#include "...\deposit.c"
+#include "...\inquiry.c"
+#include "...\exit_menu.c"
+
+** Remove "..." and replace with the file path on your computer**
 
 
 float curr_bal = 5000;
